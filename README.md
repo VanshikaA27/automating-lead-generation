@@ -1,8 +1,6 @@
 # automating-lead-generation
 
-Absolutely, here's a sample structure for a README file based on the provided points:
 
----
 
 # Marketing Automation Project
 
